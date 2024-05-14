@@ -39,6 +39,3 @@ As a passionate data scientist and Python developer, I'm committed to continuous
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshmalhi&show_icons=true&locale=en" alt="santoshmalhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshmalhi&" alt="santoshmalhi" /></p>
-
-### 🔝 My Contributed Repo
-![Snake animation](https://github.com/SantoshMalhi/SantoshMalhi/blob/output/github-contribution-grid-snake.svg)
