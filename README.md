@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Santosh Kumar 👋</h1>
-<div align="center"> <img src="2.png"> </div>
+<div align="center"> <img src="jj.png"> </div>
 <h3 align="center">I'm a passionate data scientist and analytics enthusiast with a keen interest in deriving insights from data to solve real-world problems. Welcome to my GitHub profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
